@@ -1,0 +1,2 @@
+# manja
+man in Japanese
